@@ -15,9 +15,6 @@ FTP Client/Server
 -	Hỗ trợ đa luồng
 -	Việc gửi file có cả tính toán thời gian
 -	Cho phép hủy tiến trình đang thực hiện gửi/ nhận file
-### c.	Hạn chế, hướng phát triển
--	Gửi 1 file bằng nhiều luồng
--	Không thông báo cho server khi hủy tiến trình gửi/ nhận
 
 
  
